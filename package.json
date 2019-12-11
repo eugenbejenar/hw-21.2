@@ -1,0 +1,17 @@
+{
+    "name": "hw-21.2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass:watch": "sass ./scss/index.scss ./css/index.css --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "node-sass": "^4.13.0",
+        "sass": "^1.23.7"
+    }
+}
